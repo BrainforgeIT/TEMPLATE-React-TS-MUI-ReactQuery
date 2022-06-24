@@ -1,0 +1,11 @@
+{
+  "dashboard": {
+    "title": "Strona główna"
+  },
+  "login": {
+    "title": "Logowanie"
+  },
+  "register": {
+    "title": "Rejestracja"
+  }
+}
