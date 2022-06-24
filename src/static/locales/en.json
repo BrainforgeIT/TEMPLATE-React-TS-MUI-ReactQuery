@@ -3,7 +3,15 @@
     "title": "Dashboard"
   },
   "login": {
-    "title": "Login"
+    "label": "Login",
+    "title": "Login",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere numquam ipsam, perferendis exercitationem nobis voluptatibus.",
+    "email_label": "E-mail",
+    "email_placeholder": "E-mail",
+    "password": "Password",
+    "login_btn": "Log in",
+    "no_account_question": "No account yet?",
+    "no_account_action": "Register!"
   },
   "register": {
     "title": "Register"

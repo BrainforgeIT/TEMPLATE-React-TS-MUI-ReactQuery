@@ -3,7 +3,15 @@
     "title": "Strona główna"
   },
   "login": {
-    "title": "Logowanie"
+    "label": "Login",
+    "title": "Login",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere numquam ipsam, perferendis exercitationem nobis voluptatibus.",
+    "email_label": "Adres e-mail",
+    "email_placeholder": "E-mail",
+    "password": "Hasło",
+    "login_btn": "Zaloguj się",
+    "no_account_question": "Nie masz jeszcze konta?",
+    "no_account_action": "Zarejestruj się!"
   },
   "register": {
     "title": "Rejestracja"

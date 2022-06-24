@@ -3,7 +3,6 @@ import React, { FC } from 'react';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
 import { useTranslation } from 'react-i18next';
 import ErrorMessage from '../../../../components/common/errorMessage/ErrorMessage';
-import RegisterPrompt from '../registerPrompt/RegisterPrompt';
 import { StyledInputContainer, StyledLoadingButton } from './LoginForm.Elements';
 import { IFormInput } from './LoginForm.Types';
 
@@ -65,7 +64,6 @@ const LoginForm: FC = () => {
         <StyledLoadingButton type="submit" variant="contained">
           {t('login.login_btn')}
         </StyledLoadingButton>
-        <RegisterPrompt />
       </Grid>
     </form>
   );
