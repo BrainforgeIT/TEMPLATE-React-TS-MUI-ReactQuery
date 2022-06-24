@@ -1,3 +1,21 @@
+# This is a template frontend repository.
+Main tech stack:
+- React
+- TypeScript
+- Material UI
+- React Query
+
+Additional libraries:
+- Axios
+- i18next
+- React Router Dom
+- React Hook Form
+
+This repo has preconfigured additional tools for keeping the code clean:
+- ESLint
+- Prettier
+- Husky
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
